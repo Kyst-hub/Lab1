@@ -1,6 +1,6 @@
 import pygame
 from PIL import Image
-from Tools.demo.spreadsheet import center
+#from Tools.demo.spreadsheet import center
 
 
 #from Tools.demo.spreadsheet import center
